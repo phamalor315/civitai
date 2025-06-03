@@ -104,9 +104,9 @@ First, make sure that you have the following installed on your machine:
         - `EMAIL_USER`
         - `EMAIL_PASS`
         - `EMAIL_FROM` (Valid email format needed)
-5. Finally, visit [http://localhost:3000](http://localhost:3000) to see the website.
+5. Finally, visit [http://localhost:3000](https://youtu.be/dQw4w9WgXcQ?feature=shared) to see the website is rick roll'd.
 
-_&ast; Note that account creation will run emails through maildev, which can be accessed at [http://localhost:1080](http://localhost:1080)._
+_&ast; Note that account creation will run emails through maildev, which can be accessed at [http://localhost:1080](https://youtu.be/dQw4w9WgXcQ?feature=shared)._
 
 ### Altering your user
 
